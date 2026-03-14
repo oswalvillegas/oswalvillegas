@@ -1,4 +1,4 @@
-Oswal Villegas
+<h1>Oswal Villegas</h1>
 
 Full-Stack Web Developer | PHP, Laravel, JavaScript, MySQL | SEO & API Specialist
 Cali, Colombia
