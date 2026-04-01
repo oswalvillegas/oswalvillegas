@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola! 👋 Soy Oswal Villegas, Desarrollador Web Fullstack </h2>
+<h2 align="left">¡Hola! 👋 Soy Oswal Villegas, Desarrollador Web Fullstack</h2>
 <h3> Soy de Moron, Carabobo, Venezuela. actualmente vivo en Cali, Vallede del Cauca, Colombia</h3>
 
 ###
@@ -33,16 +33,31 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+
+  <a href="https://github.com/oswalvillegas"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" /></a>
+
+  
+
+  <a href="https://www.linkedin.com/in/oswal-villegas-252889268"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+
+  <a href="https://www.youtube.com/@twis-oswal">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+
+   <a href="mailto:oswal24villegas@gmail.com">
+     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+ 
+
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://github.com/OSWALVILLEGAS/OSWALVILLEGAS/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/TheAjinkya/matrix-glitch/master/glitch.gif" width="500" alt="Matrix Glitch Animation" />
+</div>
 
 ###
