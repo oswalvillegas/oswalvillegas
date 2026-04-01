@@ -1,4 +1,5 @@
-<h2 align="left">¡Hola! 👋 Soy Oswal Villegas, Desarrollador Web Fullstack de Cali, Valle del Cauca, Colombia</h2>
+<h2 align="left">¡Hola! 👋 Soy Oswal Villegas, Desarrollador Web Fullstack </h2>
+<h3> Soy de Moron, Carabobo, Venezuela. actualmente vivo en Cali, Vallede del Cauca, Colombia</h3>
 
 ###
 
